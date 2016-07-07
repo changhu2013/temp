@@ -1,5 +1,8 @@
 
-function navi (ctx, next){
+var navi = function * (ctx, next){
+
+   console.log(ctx);
+
    ctx.body = 'navi';
 }
 

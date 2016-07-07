@@ -1,5 +1,5 @@
 {
-  "name": "beeper_heartbeat",
+  "name": "beeper_tracking_service",
   "version": "0.1.0",
   "private": true,
   "scripts": {
