@@ -1,0 +1,22 @@
+{
+  "name": "beeper_heartbeat",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node bin/www"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "debug": "^2.2.0",
+    "koa": "^2.0.0",
+    "koa-bodyparser": "^2.0.1",
+    "koa-convert": "^1.2.0",
+    "koa-json": "^1.1.1",
+    "koa-logger": "^1.3.0",
+    "koa-onerror": "^1.2.1",
+    "koa-router": "^7.0.0",
+    "redis": "^2.6.2",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {}
+}
